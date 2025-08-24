@@ -1,0 +1,8 @@
+Add dictionary lookup for selected words and improve highlight rendering
+
+Implement a dictionary feature to define selected words and refine the logic for applying text highlights to content, ensuring accurate display of user-added highlights.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: bd0d2064-d316-421d-8535-071668e4a327
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/1410f1de-af9b-41a6-a29a-71623d788ff6/bd0d2064-d316-421d-8535-071668e4a327/ocdkbsj
